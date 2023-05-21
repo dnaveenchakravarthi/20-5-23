@@ -1,0 +1,73 @@
+body{
+    margin:0%;
+
+}
+.navbar{
+    display:flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 3% 1%;
+}
+.navbar a{
+    text-decoration: none;
+    font-size: 1.3rem;
+    }
+    .logo{
+        font-size:3rem !important;
+ }
+ .navbar i{
+    font-size: 1.4rem;
+    color:rgba(0,0,0,0.6);
+ }
+ .vamsi{
+    background-image: url(https://edge.rode.com/images/page/1/modules/8061/DUO-Change-over-01.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 109vh;
+}
+.vamsi{
+    text-align: center;
+}
+.vamsi h1{
+    font-size: 50px;
+    right:20px;
+    color:white;
+}
+.vamsi h2{
+    color:white;
+}
+.vamsi div{
+    color: white;
+    
+    
+    
+    
+    
+    
+    
+}
+    
+ 
+ 
+ 
+.vamsi a{
+    text-decoration: none;
+    font-size: 1.3rem;
+    color:#ad9970;
+
+}
+.vamsi span{
+    
+    background-color: #ad9970;
+    color:white;
+    padding:2%;
+    margin-left: 3%;
+    border-radius: 25px;
+    font-size: 1.3rem;
+}
+
+
+ 
+ 
+    
+    
